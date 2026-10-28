@@ -1,0 +1,10 @@
+MERIDIAN / PARTNER FLEET REGISTRY (extract)
+tail      type             operator              status
+--------------------------------------------------------------
+N71MSC    Challenger 350   Meridian Sky Charter  ACTIVE
+N72MSC    Challenger 350   Meridian Sky Charter  ACTIVE
+N88XLS    Citation XLS     BlueHorizon Jets      ACTIVE
+N90GLS    Gulfstream G650  Apex Air              ACTIVE
+N55MSC    Citation XLS     Meridian Sky Charter  ACTIVE
+
+Note: cruise ceilings — Challenger 350 ~900 km/h, Citation XLS ~815 km/h, Gulfstream G650 ~950 km/h.
